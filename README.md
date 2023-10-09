@@ -1,2 +1,2 @@
-# MyAppFlutter - Desafio de projeto - Subuindo 
+# MyAppFlutter - Desafio de projeto - flutter
 Repo - Remoto - Meu 1° Projeto Flutter
